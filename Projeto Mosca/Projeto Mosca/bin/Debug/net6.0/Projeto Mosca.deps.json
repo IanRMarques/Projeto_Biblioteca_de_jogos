@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto Mosca/1.0.0": {
+        "runtime": {
+          "Projeto Mosca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto Mosca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

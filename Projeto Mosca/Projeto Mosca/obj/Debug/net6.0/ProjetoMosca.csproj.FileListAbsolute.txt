@@ -1,0 +1,5 @@
+C:\Users\Aluno\source\repos\Projeto Mosca\Projeto Mosca\obj\Debug\net6.0\ProjetoMosca.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Projeto Mosca\Projeto Mosca\obj\Debug\net6.0\ProjetoMosca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Projeto Mosca\Projeto Mosca\obj\Debug\net6.0\ProjetoMosca.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Projeto Mosca\Projeto Mosca\obj\Debug\net6.0\ProjetoMosca.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Projeto Mosca\Projeto Mosca\obj\Debug\net6.0\ProjetoMosca.csproj.CoreCompileInputs.cache
